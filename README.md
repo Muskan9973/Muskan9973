@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Muskan9973
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Muskan9973/Muskan9973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+base=int(input("enter the base of traingle:"))
+hight=int(input("enter the hight of the traingle:"))
+area_of_traingle=1/2*base*hight
+print("the area of triangle is:",area_of_traingle)
